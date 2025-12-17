@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "Battleship.Server\\Battleship.Server.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "Battleship.Client\\Battleship.Client.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]
