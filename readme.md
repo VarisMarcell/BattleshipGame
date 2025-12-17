@@ -45,7 +45,7 @@ The game uses a simple text-based protocol for communication between the two pla
 - `GAME_OVER <win?>` alerts clients that the game has ended, and whether they won or lost.
 
 ## Architecture Overview
-This project uses a strict client–server architecture.
+This project uses a strict clientâ€“server architecture.
 
 - The server is authoritative and owns all game state
 - Clients never see opponent ship locations
@@ -53,6 +53,12 @@ This project uses a strict client–server architecture.
 - The protocol is text-based over TCP
 
 This design prevents cheating and desynchronization.
+
+## Failure Handling
+
+- Invalid commands are rejected by the server
+- Out-of-turn actions are ignored
+- If a client disconnects, the opponent wins by forfeit
 
 ## Enjoy the game!
 ~ Sam Tooley Jr.
