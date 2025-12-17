@@ -167,8 +167,8 @@ internal static class Program
             Writer = new StreamWriter(stream) { AutoFlush = true };
 
             Board = new Board(rng);
-            //Board.PlaceShipsRandomly();
-            Board.PlaceShipsTesting();
+            Board.PlaceShipsRandomly();
+            //Board.PlaceShipsTesting();
         }
 
         public Task SendAsync(string line) => Writer.WriteLineAsync(line);

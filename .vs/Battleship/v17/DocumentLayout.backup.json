@@ -3,20 +3,20 @@
   "WorkspaceRootPath": "D:\\Code\\CPTR-328\\Battleship\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F81E07F8-F99F-467B-BD6F-6693996928C5}|Battleship.Server\\Battleship.Server.csproj|d:\\code\\cptr-328\\battleship\\battleship.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F81E07F8-F99F-467B-BD6F-6693996928C5}|Battleship.Server\\Battleship.Server.csproj|solutionrelative:battleship.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|Solution Items{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|D:\\Code\\CPTR-328\\Battleship\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|Solution Items{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|solutionrelative:readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1579DFE1-D47E-4C67-AEAC-F1DAE611A033}|Battleship.Client\\Battleship.Client.csproj|d:\\code\\cptr-328\\battleship\\battleship.client\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1579DFE1-D47E-4C67-AEAC-F1DAE611A033}|Battleship.Client\\Battleship.Client.csproj|solutionrelative:battleship.client\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2D4FC448-59D3-422B-9D51-F7688E8FE222}|Battleship.Core\\Battleship.Core.csproj|d:\\code\\cptr-328\\battleship\\battleship.core\\battleshipcore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2D4FC448-59D3-422B-9D51-F7688E8FE222}|Battleship.Core\\Battleship.Core.csproj|solutionrelative:battleship.core\\battleshipcore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F81E07F8-F99F-467B-BD6F-6693996928C5}|Battleship.Server\\Battleship.Server.csproj|d:\\code\\cptr-328\\battleship\\battleship.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F81E07F8-F99F-467B-BD6F-6693996928C5}|Battleship.Server\\Battleship.Server.csproj|solutionrelative:battleship.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|Solution Items{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|D:\\Code\\CPTR-328\\Battleship\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
-      "RelativeMoniker": "D:0:0:{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|Solution Items{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|solutionrelative:readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+      "AbsoluteMoniker": "D:0:0:{2D4FC448-59D3-422B-9D51-F7688E8FE222}|Battleship.Core\\Battleship.Core.csproj|d:\\code\\cptr-328\\battleship\\battleship.core\\battleshipcore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D4FC448-59D3-422B-9D51-F7688E8FE222}|Battleship.Core\\Battleship.Core.csproj|solutionrelative:battleship.core\\battleshipcore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,11 +26,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "readme.md",
               "DocumentMoniker": "D:\\Code\\CPTR-328\\Battleship\\readme.md",
               "RelativeDocumentMoniker": "readme.md",
@@ -38,7 +38,8 @@
               "RelativeToolTip": "readme.md",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
-              "WhenOpened": "2025-12-16T04:22:50.162Z"
+              "WhenOpened": "2025-12-16T04:22:50.162Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -48,13 +49,13 @@
               "RelativeDocumentMoniker": "Battleship.Client\\Program.cs",
               "ToolTip": "D:\\Code\\CPTR-328\\Battleship\\Battleship.Client\\Program.cs",
               "RelativeToolTip": "Battleship.Client\\Program.cs",
-              "ViewState": "AgIAAF0AAAAAAAAAAAAEwHUAAAAkAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHUAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-16T02:45:12.625Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "BattleshipCore.cs",
               "DocumentMoniker": "D:\\Code\\CPTR-328\\Battleship\\Battleship.Core\\BattleshipCore.cs",
               "RelativeDocumentMoniker": "Battleship.Core\\BattleshipCore.cs",
@@ -66,16 +67,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Code\\CPTR-328\\Battleship\\Battleship.Server\\Program.cs",
               "RelativeDocumentMoniker": "Battleship.Server\\Program.cs",
               "ToolTip": "D:\\Code\\CPTR-328\\Battleship\\Battleship.Server\\Program.cs",
               "RelativeToolTip": "Battleship.Server\\Program.cs",
-              "ViewState": "AgIAAE0AAAAAAAAAAAAEwF4AAAA0AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEUAAAA/AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-15T23:35:35.901Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-15T23:35:35.901Z"
             }
           ]
         }
